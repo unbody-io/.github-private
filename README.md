@@ -4,11 +4,26 @@ Welcome to **Unbody**, the go-to API for developers who want to build scalable, 
 
 ## 🚀 Key Features
 
-- **AI-Native API:** Specifically designed for building AI-native solutions that are scalable and efficient.
-- **Developer-Friendly:** Built for developers who want to focus on building, not diving into complex ML theories.
-- **Flexible and Scalable:** Supports a wide range of use cases, from simple AI integrations to complex, large-scale AI systems.
-- **Open Source:** Community-driven and open-source, with a focus on collaboration and continuous improvement.
-- **Easy Integration:** Quick and easy setup with comprehensive documentation and support.
+- **Data Integration**: Seamlessly integrates data from various sources and formats (text, images, videos, etc.).
+- **Model Flexibility**: Supports multiple AI models, including OpenAI and open-source alternatives, enabling custom solutions for different use cases.
+- **Automated Pipelines**: Automates the entire AI development process from data ingestion and processing to model deployment and monitoring.
+- **Scalability**: Designed to handle large datasets and scalable AI applications.
+- **Security and Compliance**: Built-in features to ensure data privacy, security, and compliance with industry standards.
+- **Multimodal Capabilities**: Supports applications requiring multimodal input and output, such as search engines that handle text, images, and videos.
+- **Media Streaming and CDN**: Integrates with media streaming APIs and CDNs for efficient content delivery.
+- **Real-time Monitoring**: Provides real-time analytics and monitoring to optimize AI models and data flow.
+
+## Use Cases
+
+Unbody can be used for a variety of AI applications, including but not limited to:
+
+- **Multimodal Search Engines**: Enhance search capabilities by allowing users to query across text, images, and videos using semantic search.
+- **Custom AI Chatbots**: Build chatbots that understand and interact using natural language, tailored to your specific data.
+- **Product Recommendation Engines**: Develop recommendation systems that personalize user experiences and drive engagement.
+- **AI Assistants**: Create AI-driven assistants to automate tasks and improve productivity.
+- **Profile Matching Engines**: Design matching algorithms for recruitment, dating, or networking platforms.
+- **Custom RAG APIs**: Provide tailored AI experiences by combining data retrieval with generative responses.
+
 
 ## 📦 Installation
 ```bash
